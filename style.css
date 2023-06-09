@@ -14,9 +14,13 @@ body {
     background-color: lightblue;
     padding: 1%;
     align-items: center;
+    justify-content: space-between;
     margin-left: -10px;
     margin-right: -10px;
     margin-top: -10px;
+}
+a{
+    text-decoration: none;
 }
 
 .stats-container {
@@ -72,4 +76,19 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+}
+
+.stats-container{
+    display: flex;
+    align-items: center;
+    
+}
+.stats-container:hover{
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
+}
+
+#search-bar {
+    display: flex;
+    align-items: flex-end;
 }
