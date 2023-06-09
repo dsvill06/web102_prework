@@ -24,10 +24,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://imgur.com/a/DJ0PXqq)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
+[veed.io] (https://www.veed.io/workspaces/49e8f139-d284-4e36-a09d-de866956ece7/home)
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -35,11 +36,11 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Some challenges throughout the process of making this app was understanding the DOM and how to properly put in and modify objects in a way that will quarantee the outcome I wanted. For example, having placed the image component for the games in the wrong area made it leave the parent components area and didn't look right. I was able to fix it and would come across similar issues throughout the process.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [David Villavicencio]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
